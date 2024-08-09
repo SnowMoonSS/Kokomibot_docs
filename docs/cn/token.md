@@ -8,9 +8,9 @@
 
 \> 用户名称;
 
-\> 港口内的船只;   (wws me sx 和 wws me sd 功能)
+\> 港口内的船只;   (kkm me sx 和 kkm me sd 功能)
 
-\> 游戏时长;  （wws me2 功能）
+\> 游戏时长;  （kkm me2 功能）
 
 ### 授权步骤
 
